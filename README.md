@@ -13,7 +13,7 @@ Welcome to my portfolio website repository! This website showcases my skills, pr
 - **CSS3** 🎨
 
 ## 📷 Preview
-![Portfolio Screenshot](link-to-screenshot.png) *(Replace with actual image link)*
+![Image](https://github.com/user-attachments/assets/ceae88b9-9bea-4733-893b-4d5f71af5e0e)
 
 ## 🚀 How to Run Locally
 1. Clone the repository:
