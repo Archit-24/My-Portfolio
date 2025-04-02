@@ -18,7 +18,7 @@ Welcome to my portfolio website repository! This website showcases my skills, pr
 ## 🚀 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/Archit-24/My-Portfolio.git)
+   git clone https://github.com/Archit-24/My-Portfolio.git
    ```
 2. Navigate to the project folder:
    ```bash
@@ -31,10 +31,6 @@ Welcome to my portfolio website repository! This website showcases my skills, pr
 - [ ] Integrate a contact form 📧
 - [ ] Improve animations 🌀
 
-## 🤝 Contributing
-Feel free to fork this repository, make improvements, and submit a pull request! Contributions are welcome. 💡
-
 ## 📬 Contact
-📧 Email: your-email@example.com  
-🔗 LinkedIn: [your-profile](https://linkedin.com/in/yourprofile)  
-🐦 Twitter: [your-handle](https://twitter.com/yourhandle)
+📧 Email: archit.aggarwal2015@gmail.com  
+🔗 LinkedIn: [architagg07](https://www.linkedin.com/in/architagg07/)  
